@@ -1,2 +1,1 @@
-# Omega
-Omega - Optimistic EMA Gradients
+# Omega - Optimistic EMA Gradients
